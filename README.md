@@ -1,3 +1,8 @@
+Android Web Application for https://kryptouutiset.net/
+Download at Google App Store https://play.google.com/store/apps/details?id=net.kryptouutiset.app
+
+
+
 This is a template project for Android Studio that allows you to create an android webview application in minutes. You can use it to create a simple app for your website or as a starting point for your HTML5 based android app.
 
 ### Getting started
