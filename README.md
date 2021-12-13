@@ -1,4 +1,5 @@
 Android Web Application for https://kryptouutiset.net/
+
 Download at Google App Store https://play.google.com/store/apps/details?id=net.kryptouutiset.app
 
 
