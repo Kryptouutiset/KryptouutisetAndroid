@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kryptouutiset.net</string>
+<!--    <string name="web_hostname">kibana.lt.loc</string> Doesnt works-->
+    <string name="web_url">https://kryptouutiset.net</string>
+</resources>
+
+    <!-- To use file as web_url, set it to; "file:///android_asset/index.html"); -->
